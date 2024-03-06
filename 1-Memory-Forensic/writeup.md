@@ -6,7 +6,7 @@
 
 ​![image](assets/2.png)​
 
-First, we obtained the basic information of the image. `vol.exe -f (filename) windows.info`​
+Then, we obtained the basic information of the image. `vol.exe -f (filename) windows.info`​
 
 ​![image](assets/3.png)​
 
